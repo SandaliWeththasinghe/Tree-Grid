@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import TreeList from './TreeList/TreeList';
 
 const App = () => {
   return (
     <div>
-      tree grid
+      <TreeList/>
     </div>
   )
 }
